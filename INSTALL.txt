@@ -1,1 +1,4 @@
-gem install Twitter
+
+This app needs the ruby gem called "twitter".
+To install in Ubuntu do:
+ sudo gem install twitter
